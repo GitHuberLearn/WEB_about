@@ -1,14 +1,10 @@
-
-
-
 http://192.168.10.156
 \\192.168.1.156\
 net use * \\192.168.1.156\print$ /user:guest
 模拟器Ctrl+6｛NOX:work｝
-夜神模拟器一直调用摄像头
+夜神模拟器：api-blued/调用摄像头
+逍遥：
 ivcam
-
-vscode输入一个替换一个字符的问题，解决按Ins
 
 
 更新：腾文Work（技术总结）
@@ -27,6 +23,8 @@ CSS Peek：页面中按住Ctrl，鼠标点击类名后稍等，会直接显示CS
 nvm list
 nvm use xxx
 ************** System ***************
+win+x：PowerShell
+opencode -v: 1.17.13
 Windows+I：wind设置
 ipconfig：192.168.10.56  8866
 抓包：mitmweb
@@ -36,6 +34,3 @@ java: 11.0.12
 系统清理：此电脑->C盘->属性->磁盘清理->临时文件/回收站
 
 更新：WEBAbout说明
-
-
-9.28

@@ -4,7 +4,7 @@
  * @Author: Kenny
  * @Date: 2025-04-30 15:42:29
  * @LastEditors: ~
- * @LastEditTime: 2026-06-01 13:45:34
+ * @LastEditTime: 2026-08-12 10:07:44
 -->
 # 计划
 
@@ -65,6 +65,7 @@ export const getCustomTimes = (param) => {
 - 通过工具让夜神模拟器的app的接口访问模拟的数据？
 5.1 AppHealth：less的集成
 5.2 小程序开发：思尔模块小程序：商城（20251203-20260209）
+- 做经销商健康管理模块于20260615暂停
 5.2.1 框架处理
 ✅ 工具
 ✔  微信开发者：编辑 → 清除
@@ -80,14 +81,17 @@ export const getCustomTimes = (param) => {
 5.2.2.4 个人资料
 + 个人资料模块开发：上传截图?选择城市?保存？
 5.2.2.5 我的设备
-
 + ucharts在真机模式只能点击线条显示信息，且不准确ING
-+ 微信版本兼容处理： 首页兼容处理
++ 微信版本兼容处理： 首页兼容处理u
 5.2.3 团队管理
 ✔  git每日提交与合并同步
 6.0 Dealer 三控件更新
-7.0 其他计划
+7.0 经销商：添加健康管理模块 （20260615 ~ ）
++ 简易报告✔/健康预估✔/血糖分析✔/睡眠监测✔/认知分析✔/健康与亚健康✔/血压分析✔ ing 8.12发线上/饮食分析ing/运动分析/趣味评估
++ https://dev.seer-health.com/app/v3/SmartScreen/#/login 访问异常
+- 处理页面滚动问题
 
+8.0 其他项目
 
 
 ⭐ 状态说明
@@ -95,6 +99,7 @@ export const getCustomTimes = (param) => {
 - DONE: 完成状态，已经合并到master
 - DONEMOCK: 完成状态，仅是模拟数据
 - PAUSE: 暂停状态
+- RESEARCH: 研究
 ```
 
 ## 预期计划
@@ -126,10 +131,17 @@ export const getCustomTimes = (param) => {
 ## 其他计划
 
 ```bash
+# AI
+- 运行：OpenCode
 # 云界面：替代亚马逊
 # D:\软件\Office
 # md目录更新化
 # 备份全局：.gitconfig
 # GeneralTool:通用型工具更新
 - 原则：通用型与项目按需更新
+# AI+ 前端 AI Agent对话，大模型，数据可视化（ECharts/D3），前端安全（XSS/CSRF）
+- 前端使用 claude code，OpenAI Codex，cursor
+agent skill/d2c ssd
+# 打造PC端项目
+# 学习创建Java接口：增删改查
 ```

@@ -4,7 +4,7 @@
  * @Author: Kenny
  * @Date: 2025-04-30 15:42:29
  * @LastEditors: ~
- * @LastEditTime: 2026-08-12 10:07:44
+ * @LastEditTime: 2026-09-02 09:28:52
 -->
 # 计划
 
@@ -87,7 +87,7 @@ export const getCustomTimes = (param) => {
 ✔  git每日提交与合并同步
 6.0 Dealer 三控件更新
 7.0 经销商：添加健康管理模块 （20260615 ~ ）
-+ 简易报告✔/健康预估✔/血糖分析✔/睡眠监测✔/认知分析✔/健康与亚健康✔/血压分析✔ ing 8.12发线上/饮食分析ing/运动分析/趣味评估
++ 简易报告✔/健康预估✔/血糖分析✔/睡眠监测✔/认知分析+✔/9.15健康与亚健康✔/血压分析✔/饮食分析ing/运动分析/趣味评估
 + https://dev.seer-health.com/app/v3/SmartScreen/#/login 访问异常
 - 处理页面滚动问题
 
@@ -139,9 +139,10 @@ export const getCustomTimes = (param) => {
 # 备份全局：.gitconfig
 # GeneralTool:通用型工具更新
 - 原则：通用型与项目按需更新
-# AI+ 前端 AI Agent对话，大模型，数据可视化（ECharts/D3），前端安全（XSS/CSRF）
+# 前端+Python全栈+AI Agent对话，大模型，数据可视化（ECharts/D3），前端安全（XSS/CSRF）
 - 前端使用 claude code，OpenAI Codex，cursor
-agent skill/d2c ssd
+- agent skill/d2c ssd
 # 打造PC端项目
 # 学习创建Java接口：增删改查
+# 利用微前端
 ```

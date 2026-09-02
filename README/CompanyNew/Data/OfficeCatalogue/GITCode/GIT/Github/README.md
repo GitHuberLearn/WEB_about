@@ -10,10 +10,8 @@
 
 ```bash
 ## CloudHMI：云页面 → 微前端（乾坤）
-+ https://githuberlearn.github.io/CloudHMI（git）
-+ http://cloudhmi.s3-website-us-east-1.amazonaws.com（亚马逊）
++ https://githuberlearn.github.io/CloudHMI
 ## GeneralTool：通用型工具
-+ https://githuberlearn.github.io/GeneralTool（git）
-+ http://general-tool.s3-website-us-east-1.amazonaws.com（亚马逊）
++ https://githuberlearn.github.io/GeneralTool
 ## WEBAbout
 ```
